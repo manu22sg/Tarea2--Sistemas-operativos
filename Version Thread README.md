@@ -18,7 +18,7 @@ Paso 2) Ejecutar el siguiente comando: "make -f Makefile_paralelo". De está for
 
 Paso 3) Ejecutar el comando: ./version_paralelo [Nombre imagen] [nombre imagen a escala de grises]
 
-# Ejemplo de la ejecucion
+# Ejemplo de la ejecución
 ./version_paralelo /home/manu/Escritorio/imagen1.jpg /home/manu/Escritorio/imagen2.jpg 8.
 
 "/home/manu/Escritorio/imagen1.jpg" es la dirección dentro del computador en que está la imagen que hay que convertir a escala de grises.
