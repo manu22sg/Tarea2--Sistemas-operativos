@@ -29,6 +29,6 @@ Paso 3) Ejecutar el comando: ./version_openmp [Nombre imagen] [nombre imagen a e
 4 seria el numero de hilos que se van a usar para convertir la imagen a escala de grises.
 
 # ¿Que entrega como resultado?
-Lo que entrega como resultado es la imagen a escala de grises y el tiempo de ejecución que demoro la imagén en pintar todos los pixeles a gris de manera paralela,
+Lo que entrega como resultado es la imagen a escala de grises y el tiempo de ejecución que demoro el programa en pintar los pixeles de la imagen a escala de grises.
 # A TENER EN CUENTA
 Dependiendo del tamaño de la imagen y del tamaño de la pantalla, es posible que no se muestre como deberia la imagen. Aún así, la imagen que se guarda se ve al mismo tamaño que la imagen original.
