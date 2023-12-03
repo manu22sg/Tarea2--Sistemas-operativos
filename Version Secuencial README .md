@@ -15,10 +15,10 @@ Paso 1) Entrar a la carpeta en la cual se descargó el proyecto. Esto se puede h
 
 Paso 2) Ejecutar el siguiente comando: "make -f Makefile_secuencial". De está forma, se comprueba que el programa compilé y esté listo para su uso.
 
-Paso 3) Ejecutar el comando: ./grayscale_seq [Nombre imagen] [nombre imagen a escala de grises]
+Paso 3) Ejecutar el comando: ./version_secuencial [Nombre imagen] [nombre imagen a escala de grises]
 
 # Ejemplo de la ejecucion
-./grayscale_seq /home/manu/Escritorio/imagen1.jpg /home/manu/Escritorio/imagen2.jpg.
+./version_secuencial /home/manu/Escritorio/imagen1.jpg /home/manu/Escritorio/imagen2.jpg.
 
 "/home/manu/Escritorio/imagen1.jpg" es la dirección dentro del computador en que está la imagen que hay que convertir a escala de grises.
 
