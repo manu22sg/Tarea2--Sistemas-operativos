@@ -1,7 +1,7 @@
 # Tarea-2-Sistemas-Operativos: Escala a grises version openmp
 En la tarea 2 de Sistemas Operativos, se solicita aplicar un filtro a una imagen para transformarla a escala de grises, mediante el metodo de luminosidad( Luminosity Method)
 
-En este README, se explicara que software se necesita tener y como se ejecuta el metodo con la API openmp, la cual permite la programacion multiproceso de memoria compartida. 
+En este README, se explica que software se necesita tener, que entrega como resultado y como se ejecuta el metodo con la API openmp, la cual permite la programacion multiproceso de memoria compartida. 
 Lo que hace la API openmp es dividir la imagen, se le asignan hilos a cada parte de la division y luego recombina todas las partes juntandolas para formar la imagen completa.
 # Requisitos:
 -Ejecutar desde un sistema basado en Debian.
