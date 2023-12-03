@@ -27,7 +27,7 @@ Paso 3) Ejecutar el comando: ./version_secuencial [Nombre imagen] [nombre imagen
 "/home/manu/Escritorio/imagen2.jpg." sería la dirección dentro del equipo en la que se guardará la imagen convertida a escala de grises.
 
 # ¿Que entrega como resultado?
-Lo que entrega como resultado es la imagen a escala de grises y el tiempo de ejecución que demoro la imagén en pintar todos los pixeles a gris
+Lo que entrega como resultado es la imagen a escala de grises y el tiempo de ejecución que demoro el programa en pintar los pixeles a escala de gris de forma secuencial
 # A tener en cuenta
 Dependiendo del tamaño de la imagen y del tamaño de la pantalla, es posible que no se muestre como deberia la imagen. Aún así, la imagen que se guarda se ve al mismo tamaño que la imagen original.
 
