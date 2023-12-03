@@ -3,7 +3,7 @@ En la tarea 2 de Sistemas Operativos, se solicita aplicar un filtro a una imagen
 
 En este README, se explicara que software se necesita tener y como se ejecuta el metodo Paralelo, en el cual la matriz de pixeles se va a procesar de forma paralela, es decir, se divide la imagen en varias partes y a cada hilo se le asigna cierta parte. Esto resulta en una mejora significativa en el rendimiento, especialmente en sistemas con multiples nucleos de CPU
 # Requisitos:
--Ejecutar desde un sistema basado en Debian
+-Ejecutar desde un sistema basado en Debian.
 
 -Tener una imagen a color en el equipo.
 
