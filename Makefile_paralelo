@@ -1,0 +1,5 @@
+CXX = g++
+CXXFLAGS = -std=c++11 -Wall -Wextra -O3
+
+version_paralelo: src/main_paralelo.cpp
+	$(CXX) $(CXXFLAGS) -DTHREADED $^ -o $$(basename $@) `pkg-config --cflags --libs opencv4`

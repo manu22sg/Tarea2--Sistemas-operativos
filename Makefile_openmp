@@ -1,0 +1,6 @@
+CXX = g++
+CXXFLAGS = -std=c++11 -Wall -Wextra -O3
+
+
+version_openmp: src/main_openmp.cpp
+	$(CXX) $(CXXFLAGS) -fopenmp -DOPENMP $^ -o $$(basename $@) ` pkg-config --cflags --libs opencv4`
